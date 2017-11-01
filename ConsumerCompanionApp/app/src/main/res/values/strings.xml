@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Consumer Companion App</string>
+    <string name="verify_product">Verify Product</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="about">About</string>
+    <string name="user_name">Name</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="attach_file">Attach File</string>
+    <string name="submit">Submit</string>
+    <string name="btn_enter">Enter</string>
+</resources>
